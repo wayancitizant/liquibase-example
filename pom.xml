@@ -90,7 +90,7 @@
                 -->
                 <configuration>
                     <verbose>true</verbose>
-                    <changeLogFile>db/db.master.xml</changeLogFile>
+                    <changeLogFile>db.master.xml</changeLogFile>
                     <driver>oracle.jdbc.driver.OracleDriver</driver>
                     <contexts>local</contexts>
                     <promptOnNonLocalDatabase>true</promptOnNonLocalDatabase>
